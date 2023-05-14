@@ -54,7 +54,7 @@ Accessor are necessary for the SalesPerson class to provide controlled access to
 
 ###### Note: There is no need to include mutator or accessor methods or a constructor. (4 points)
 
-![UML Diagram](Assets/UML Diagram.png)
+![UML Diagram](Assets/UML_Diagram.png)
 
 
 
